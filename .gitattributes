@@ -1,0 +1,2 @@
+**.txt filter=lfs diff=lfs merge=lfs -text
+D:/git/offline2/offline2/offline/2.txt filter=lfs diff=lfs merge=lfs -text
