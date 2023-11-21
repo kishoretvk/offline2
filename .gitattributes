@@ -4,3 +4,4 @@ D:/git/offline2/offline2/offline3/3.txt filter=lfs diff=lfs merge=lfs -text
 D:/git/offline2/offline22/offline/22.txt filter=lfs diff=lfs merge=lfs -text
 D:/git/offline2/offline22/offline/22.txt filter=lfs diff=lfs merge=lfs -text
 D:/git/offline2/offline2/offline22/22.txt filter=lfs diff=lfs merge=lfs -text
+D:/git/offline2/offline2/offline1/1.txt filter=lfs diff=lfs merge=lfs -text
